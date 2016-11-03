@@ -1,6 +1,6 @@
 # Retrofit SugarORM
 
-Retrofit is a powerful and safe REST client for Android developments.When it's combine with SugarORM and RxAndroid prety simple and easy for developments.
+[Retrofit](http://square.github.io/retrofit/) is a powerful and safe REST client for Android developments.When it's combine with [SugarORM](http://satyan.github.io/sugar/) and [RxAndroid](https://github.com/ReactiveX/RxAndroid) prety simple and easy for developments.
 
 #Setup
 Make sure require Internet permissions in your AndroidManifest.xml
